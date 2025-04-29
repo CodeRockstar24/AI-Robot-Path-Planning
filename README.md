@@ -33,4 +33,7 @@ Additional Conditions Implemented:
 
 ![Image Alt](https://github.com/CodeRockstar24/AI-Robot-Path-Planning/blob/79733c61c35aaa433fc9a96dcc09c31c8b7d8a71/Algorithm.png)
 
+*** Priority Based Path Finding ***
+![Image Alt](https://github.com/CodeRockstar24/AI-Robot-Path-Planning/blob/88ddf95786c3110d5cd0816a800f562f8f7542fc/Non%20Collision%20%2B%20Priority.png)
+
 

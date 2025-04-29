@@ -14,8 +14,7 @@ Features
 4. Real-time path visualization
 
 5. Flexible for different environment setups
-
-Algorithm:
+   
 
 The A* algorithm uses:
 

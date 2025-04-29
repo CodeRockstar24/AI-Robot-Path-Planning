@@ -25,6 +25,9 @@ The A* algorithm uses:
 
 3- F-cost: F = G + H
 
+https://github.com/CodeRockstar24/AI-Robot-Path-Planning/blob/e5d3d3509db3edb900b7a4acddebb443809eed7e/Prioriy%20based%20AStar.mp4
+
+
 Additional Conditions Implemented:
 1* Non-Collision: Robot checks for obstacle-free paths during expansion.
 

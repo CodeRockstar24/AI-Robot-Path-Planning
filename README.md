@@ -26,6 +26,7 @@ The A* algorithm uses:
 
 
 Additional Conditions Implemented:
+
 1* Non-Collision: Robot checks for obstacle-free paths during expansion.
 
 2* Priority-Based Movement: Nodes are given priority values; higher-priority nodes are explored first when F-costs are equal.

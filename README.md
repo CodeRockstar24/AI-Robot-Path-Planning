@@ -30,3 +30,7 @@ Additional Conditions Implemented:
 1* Non-Collision: Robot checks for obstacle-free paths during expansion.
 
 2* Priority-Based Movement: Nodes are given priority values; higher-priority nodes are explored first when F-costs are equal.
+
+![Image Alt](https://github.com/CodeRockstar24/AI-Robot-Path-Planning/blob/79733c61c35aaa433fc9a96dcc09c31c8b7d8a71/Algorithm.png)
+
+
